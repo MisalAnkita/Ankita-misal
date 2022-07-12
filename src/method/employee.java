@@ -11,6 +11,8 @@ float sal;
 String emp_dept;
 char gender;
 
+
+// new changes
 public void emp_info()
 {
 	System.out.println("========================");
@@ -21,6 +23,10 @@ public void emp_info()
 	System.out.println("Employee gender is "+gender);
 
 
+}
+public void emp()
+{
+	
 }
 
 
